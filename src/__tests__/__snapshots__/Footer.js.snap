@@ -11,7 +11,7 @@ exports[`renders Footer correctly 1`] = `
       className="text-muted"
     >
       ©
-       2020 All rights reserved | site by Acushla Koncepts.
+       2022 All rights reserved | site by Acushla Koncepts.
     </span>
   </div>
 </footer>
