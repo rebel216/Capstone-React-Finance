@@ -15,7 +15,7 @@ The application features includes:
 ![screenshot](./stockist.gif)
 
 ## Live Demo
-[Live Demo]
+[Live Demo](https://rebel216.github.io/Capstone-React-Finance/)
 
 ## Getting Started
 
@@ -74,5 +74,7 @@ Feel free to check the [issues page](issues/).
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
+- Original design idea by Nelson Sakwa on Behance.
+- The Creative Commons license of the design 
 - [Microverse Inc](https://www.microverse.org/)
 - [Financial Modelling Prep API](https://financialmodelingprep.com/developer/docs/)
