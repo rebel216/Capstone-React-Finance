@@ -10,12 +10,12 @@ import {
 function TopNav({ handleOnSelect }) {
   return (
     <Navbar bg="dark" variant="dark">
-      <Navbar.Brand href="/Capstone-React-Finance">STOCKIST</Navbar.Brand>
+      <Navbar.Brand href="/">STOCKIST</Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="mr-auto">
-          <Nav.Link href="/Capstone-React-Finance">Home</Nav.Link>
-          <Nav.Link href="/Capstone-React-Finance/news">Stock News</Nav.Link>
+          <Nav.Link href="/">Home</Nav.Link>
+          <Nav.Link href="/news">Stock News</Nav.Link>
         </Nav>
         <Form inline>
           <Form.Control onChange={handleOnSelect} as="select" className="mr-sm-2">
