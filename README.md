@@ -15,7 +15,7 @@ The application features includes:
 ![screenshot](./stockist.gif)
 
 ## Live Demo
-[Live Demo](https://rebel216.github.io/Capstone-React-Finance/)
+[Live Demo](https://capstone-finance-rebel216.herokuapp.com/Capstone-React-Finance/)
 
 ## Getting Started
 
