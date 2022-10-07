@@ -7,7 +7,7 @@ import StockDetailsContainer from '../container/StockDetailsContainer';
 export default function DetailPage() {
   const handleFormClick = e => {
     e.preventDefault();
-    const url = `/stock/${e.target[0].value}`;
+    const url = `/Capstone-React-Finance/stock/${e.target[0].value}`;
     window.location.href = url;
   };
   return (
