@@ -1,6 +1,6 @@
 {
   "name": "react-capstone",
-  "homepage": "https://rebel216.github.io/Capstone-React-Finance",
+  "homepage": "https://rebel216.github.io/Capstone-React-Finance/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -32,7 +32,7 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
-    "predeploy": "npm run build",
+    "predeploy": "yarn run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",

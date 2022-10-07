@@ -11,10 +11,10 @@ import {
 function TopNavTicker({ handleFormClick }) {
   return (
     <Navbar bg="dark" variant="dark">
-      <Navbar.Brand href="/">STOCKIST</Navbar.Brand>
+      <Navbar.Brand href="/Capstone-React-Finance">STOCKIST</Navbar.Brand>
       <Nav className="mr-auto">
-        <Nav.Link href="/">Home</Nav.Link>
-        <Nav.Link href="/news">Stock News</Nav.Link>
+        <Nav.Link href="/Capstone-React-Finance">Home</Nav.Link>
+        <Nav.Link href="/Capstone-React-Finance/news">Stock News</Nav.Link>
       </Nav>
       <Form inline onSubmit={handleFormClick}>
         <FormControl

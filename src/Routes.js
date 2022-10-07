@@ -9,9 +9,9 @@ const history = createBrowserHistory();
 
 const Routes = () => (
   <Router history={history}>
-    <Route exact path="/" component={App} />
-    <Route exact path="/news" component={StockNews} />
-    <Route exact path="/stock/:ticker" component={Stock} />
+    <Route exact path="/Capstone-React-Finance" component={App} />
+    <Route exact path="/Capstone-React-Finance/news" component={StockNews} />
+    <Route exact path="/Capstone-React-Finance/stock/:ticker" component={Stock} />
   </Router>
 );
 
