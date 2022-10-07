@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Capstone-React-Finance/static/css/main.ebb4b1d1.chunk.css",
+    "main.js": "/Capstone-React-Finance/static/js/main.d020ffb9.chunk.js",
+    "main.js.map": "/Capstone-React-Finance/static/js/main.d020ffb9.chunk.js.map",
+    "runtime-main.js": "/Capstone-React-Finance/static/js/runtime-main.9d0b9cc8.js",
+    "runtime-main.js.map": "/Capstone-React-Finance/static/js/runtime-main.9d0b9cc8.js.map",
+    "static/css/2.c4e73993.chunk.css": "/Capstone-React-Finance/static/css/2.c4e73993.chunk.css",
+    "static/js/2.22107bdf.chunk.js": "/Capstone-React-Finance/static/js/2.22107bdf.chunk.js",
+    "static/js/2.22107bdf.chunk.js.map": "/Capstone-React-Finance/static/js/2.22107bdf.chunk.js.map",
+    "static/js/3.948b3592.chunk.js": "/Capstone-React-Finance/static/js/3.948b3592.chunk.js",
+    "static/js/3.948b3592.chunk.js.map": "/Capstone-React-Finance/static/js/3.948b3592.chunk.js.map",
+    "index.html": "/Capstone-React-Finance/index.html",
+    "static/css/2.c4e73993.chunk.css.map": "/Capstone-React-Finance/static/css/2.c4e73993.chunk.css.map",
+    "static/css/main.ebb4b1d1.chunk.css.map": "/Capstone-React-Finance/static/css/main.ebb4b1d1.chunk.css.map",
+    "static/js/2.22107bdf.chunk.js.LICENSE.txt": "/Capstone-React-Finance/static/js/2.22107bdf.chunk.js.LICENSE.txt",
+    "static/media/not_found.0c7994f7.jpg": "/Capstone-React-Finance/static/media/not_found.0c7994f7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d0b9cc8.js",
+    "static/css/2.c4e73993.chunk.css",
+    "static/js/2.22107bdf.chunk.js",
+    "static/css/main.ebb4b1d1.chunk.css",
+    "static/js/main.d020ffb9.chunk.js"
+  ]
+}
