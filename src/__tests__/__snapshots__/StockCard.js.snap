@@ -1,0 +1,83 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders StockCard correctly 1`] = `
+<div
+  className="m-2 bg-dark card"
+  style={
+    Object {
+      "width": "16rem",
+    }
+  }
+>
+  <div
+    className="d-flex flex-column card-body"
+  >
+    <div
+      className="text-light font-weight-bold card-title h5"
+    >
+      AAPL
+    </div>
+    <div
+      className="mb-2 text-muted card-subtitle h6"
+    >
+      Apple Inc
+    </div>
+    <p
+      className="d-flex justify-content-between text-success card-text"
+    >
+       230.54 USD
+       
+      <svg
+        fill="currentColor"
+        height="1em"
+        stroke="currentColor"
+        strokeWidth="0"
+        style={
+          Object {
+            "color": undefined,
+          }
+        }
+        viewBox="0 0 16 16"
+        width="1em"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="m9.77 12.11 4.012-2.953a.647.647 0 0 0 0-1.114L9.771 5.09a.644.644 0 0 0-.971.557V6.65H2v3.9h6.8v1.003c0 .505.545.808.97.557z"
+        />
+      </svg>
+      <em>
+        2.02%
+      </em>
+      <svg
+        fill="currentColor"
+        height="1em"
+        stroke="currentColor"
+        strokeWidth="0"
+        style={
+          Object {
+            "color": undefined,
+          }
+        }
+        viewBox="0 0 16 16"
+        width="1em"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M0 0h1v15h15v1H0V0zm10 3.5a.5.5 0 0 1 .5-.5h4a.5.5 0 0 1 .5.5v4a.5.5 0 0 1-1 0V4.9l-3.613 4.417a.5.5 0 0 1-.74.037L7.06 6.767l-3.656 5.027a.5.5 0 0 1-.808-.588l4-5.5a.5.5 0 0 1 .758-.06l2.609 2.61L13.445 4H10.5a.5.5 0 0 1-.5-.5z"
+          fillRule="evenodd"
+        />
+      </svg>
+    </p>
+    <div
+      className="mt-auto"
+    >
+      <a
+        className="btn btn-outline-success w-100"
+        href="\\\\stock\\\\AAPL"
+      >
+        Details
+      </a>
+    </div>
+  </div>
+</div>
+`;
