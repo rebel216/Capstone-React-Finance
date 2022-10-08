@@ -17,6 +17,9 @@ The application features includes:
 ## Live Demo
 [Live Demo](https://capstone-finance-rebel216.herokuapp.com/Capstone-React-Finance/)
 
+## Video 
+[Video](https://drive.google.com/file/d/1bhOM4IuZjATnMbhVdWN6Egx35ny3SPa1/view?usp=sharing)
+
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
