@@ -15,10 +15,10 @@ The application features includes:
 ![screenshot](./stockist.gif)
 
 ## Live Demo
-[Live Demo](https://634140379320270009398402--tranquil-gumdrop-ab7d6d.netlify.app)
+[Live Demo](https://63416a61dc027f0008bfb05e--tranquil-gumdrop-ab7d6d.netlify.app)
 
 ## Video 
-[Video](https://drive.google.com/file/d/1bhOM4IuZjATnMbhVdWN6Egx35ny3SPa1/view?usp=sharing)
+[Video](https://youtu.be/EX6hC0AskYg)
 
 ## Getting Started
 
