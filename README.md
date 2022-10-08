@@ -15,7 +15,7 @@ The application features includes:
 ![screenshot](./stockist.gif)
 
 ## Live Demo
-[Live Demo](https://capstone-finance-rebel216.herokuapp.com/Capstone-React-Finance/)
+[Live Demo](https://634140379320270009398402--tranquil-gumdrop-ab7d6d.netlify.app)
 
 ## Video 
 [Video](https://drive.google.com/file/d/1bhOM4IuZjATnMbhVdWN6Egx35ny3SPa1/view?usp=sharing)
